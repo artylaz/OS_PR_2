@@ -1,0 +1,16 @@
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\Client.exe
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\Client.dll
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\ref\Client.dll
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.dll
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\arty-\Desktop\Арти УрФУ\НМТ-393907 Арти\Первый семестр\Операционные системы\Практические\ПР 2\Chat_OS\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
